@@ -26,13 +26,13 @@ as well as special characters, and it has the possibility to exclude similar cha
 
 ```javascript
 generate('outputElementId', {
-length: 15, // Password length
-num: true, // Include numbers
-lower: true, // Include lowercase letters
-upper: true, // Include uppercase letters
-spc: true, // Include special characters
-excl: false, // Exclude similar characters
-quantity: 3 // Number of passwords to generate
+    length: 15, // Password length
+    num: true, // Include numbers
+    lower: true, // Include lowercase letters
+    upper: true, // Include uppercase letters
+    spc: true, // Include special characters
+    excl: false, // Exclude similar characters
+    quantity: 3 // Number of passwords to generate
 });
 ```
 
