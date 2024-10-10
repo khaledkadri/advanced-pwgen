@@ -8,7 +8,7 @@
 
 <img src="https://www.codeurjava.com/assets/github/repositories/javascript-advanced-password-generator/password_example.png" alt="Password Example" style="width:50%;">
 
-<p>This password generator allows you to generate very secure and customizable passwords. It offers the possibility to include numbers, uppercase and lowercase letters
+<p>This javascript password generator plugin allows you to generate very secure and customizable passwords. It offers the possibility to include numbers, uppercase and lowercase letters
 as well as special characters, and it has the possibility to exclude similar characters.</p>
 
 <h2>Features</h2>
