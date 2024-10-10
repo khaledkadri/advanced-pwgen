@@ -1,9 +1,12 @@
-<h1>Password Generator Plugin</h1>
+<h1>Advanced Password Generator Plugin</h1>
 <p>Author: Khaled Kadri</p>
+
+<h2>Demo</h2>
+<a href="https://www.codeurjava.com/assets/github/repositories/javascript-advanced-password-generator/demo.html">Try it here !</a>
 
 <h2>Description</h2>
 
-![Password Example](./password_example.png)
+<img src="https://www.codeurjava.com/assets/github/repositories/javascript-advanced-password-generator/password_example.png" alt="Password Example" style="width:50%;">
 
 <p>This password generator allows you to generate very secure and customizable passwords. It offers the possibility to include numbers, uppercase and lowercase letters
 as well as special characters, and it has the possibility to exclude similar characters.</p>
