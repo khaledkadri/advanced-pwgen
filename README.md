@@ -3,6 +3,8 @@
 
 <h2>Description</h2>
 
+![Password Example](./password_example.png)
+
 <p>This password generator allows you to generate very secure and customizable passwords. It offers the possibility to include numbers, uppercase and lowercase letters
 as well as special characters, and it has the possibility to exclude similar characters.</p>
 
