@@ -1,17 +1,17 @@
-<h1>Advanced Password Generator Plugin</h1>
-<p>Author: Khaled Kadri</p>
+# Advanced Password Generator Plugin
+Author: Khaled Kadri
 
-<h2>Demo</h2>
+## Demo
 <a href="https://www.codeurjava.com/assets/github/repositories/javascript-advanced-password-generator/demo.html">Try it here !</a>
 
-<h2>Description</h2>
+## Description
 
-<img src="https://www.codeurjava.com/assets/github/repositories/javascript-advanced-password-generator/password_example.png" alt="Password Example" style="width:50%;">
+![Screenshot](https://www.codeurjava.com/assets/github/repositories/javascript-advanced-password-generator/password_example.png)
 
-<p>This javascript password generator plugin allows you to generate very secure and customizable passwords. It offers the possibility to include numbers, uppercase and lowercase letters
-as well as special characters, and it has the possibility to exclude similar characters.</p>
+This javascript password generator plugin allows you to generate very secure and customizable passwords. It offers the possibility to include numbers, uppercase and lowercase letters
+as well as special characters, and it has the possibility to exclude similar characters.
 
-<h2>Features</h2>
+## Features
 <ul>
 <li>Set length</li>
 <li>Include numbers from 0 to 9</li>
@@ -21,13 +21,13 @@ as well as special characters, and it has the possibility to exclude similar cha
 <li>Generate multiple passwords</li>
 </ul>
 
-<h2>Installation</h2>
+## Installation<
 
 ```javascript
 <script src="path/to/your/pwgen.js"></script>
 ```
 
-<h2>Usage</h2>
+## Usage
 
 ```javascript
 generate('outputElementId', {
@@ -41,7 +41,7 @@ generate('outputElementId', {
 });
 ```
 
-<h2>Example</h2>
+## Example
 
 ```html
 <div id="output"></div>
@@ -58,5 +58,5 @@ generate('outputElementId', {
 </script>
 ```
 
-<h2>License</h2>
-<p>This project is licensed under MIT.</p>
+## License
+This project is licensed under MIT.
