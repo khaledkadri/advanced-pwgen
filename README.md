@@ -21,7 +21,7 @@ as well as special characters, and it has the possibility to exclude similar cha
 <li>Generate multiple passwords</li>
 </ul>
 
-## Installation<
+## Installation
 
 ```javascript
 <script src="path/to/your/pwgen.js"></script>
